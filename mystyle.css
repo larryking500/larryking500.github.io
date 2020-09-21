@@ -1,3 +1,5 @@
 body{ 
-background-image: url"mybackground.jpg"
+background-image: url("mybackground.jpg");
+  font-family: comic-sans;
+  font-size: 15px;
 }
