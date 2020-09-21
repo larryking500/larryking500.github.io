@@ -1,11 +1,9 @@
 body{ 
 background-image: url("mybackground.jpg");
-background-repeat: no-repeat;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 15px;
   color: white;
-  margin-left: 100;
-  margin-right: 100;
+  
 }
 h1{
   text-align: center;
